@@ -14,6 +14,7 @@ function SlowComponent() {
   );
 }
 
+//just for testing out the performance in React
 export default function Test() {
   const [count, setCount] = useState(0);
   return (
